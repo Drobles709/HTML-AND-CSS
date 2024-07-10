@@ -1,0 +1,45 @@
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+body {
+    background-color: black;
+    color: white; /* Added for better text visibility */
+}
+
+.anit-extralight {
+    font-family: "Kanit", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: orangered;
+    text-align: left;
+    border: 2px solid orangered; /* Added border style */
+    padding: 10px;
+    margin-bottom: 200px;
+}
+
+.reviews {
+    text-align: center;
+    color: orangered;
+    margin-bottom: 150px;
+    font-weight: bold;
+}
+
+.locations {
+    text-align: center;
+    margin-top: 150px;
+    color: orangered;
+}
+
+.forms {
+    color: orangered;
+}
+
+.p {
+    text-align: center;
+    margin-bottom: 150px;
+}
